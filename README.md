@@ -1,6 +1,7 @@
 # MaximumOverdwarf
 
- By the fifth loop there are ### more dwarves than atoms in the observable universe 
+By the fifth loop there are 
+### more dwarves than atoms in the observable universe 
 In two more loops there are more dwarves than there are atoms in the observable universe 
 ### if every atom were also an entire universe, nested 3 more times.
 n | t(n)  
